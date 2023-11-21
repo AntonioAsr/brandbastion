@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": "off",
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
